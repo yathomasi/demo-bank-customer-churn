@@ -54,6 +54,7 @@ stages:
 artifacts:
   twitter-roberta-base-sentiment-latest:
     path: cardiffnlp/twitter-roberta-base-sentiment-latest
+    type: wrong
   hello-world:
     path: models/hello-world
     type: model
