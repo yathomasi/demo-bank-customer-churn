@@ -52,6 +52,8 @@ stages:
         x: fpr
         y: tpr
 artifacts:
+  twitter-roberta-base-sentiment-latest:
+    path: cardiffnlp/twitter-roberta-base-sentiment-latest
   hello-world:
     path: models/hello-world
     type: model
